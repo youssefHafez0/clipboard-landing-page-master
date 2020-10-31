@@ -1,0 +1,195 @@
+body {
+  font-family: "Bai Jamjuree", sans-serif;
+  font-size: 18px;
+}
+
+.logo {
+  padding-bottom: 74px;
+}
+
+.logo-heading {
+  padding-bottom: 28px;
+  color: #4c545d;
+}
+
+.logo-info {
+  padding-bottom: 48px;
+  color: #9fabb2;
+}
+
+.btn {
+  border-radius: 50px;
+  color: white;
+  padding: 16px;
+}
+
+.b1 {
+  background-color: #26baa4;
+}
+.b1:hover {
+  background-color: #56dcc8;
+  color: white;
+}
+
+.b2 {
+  background-color: #6173ff;
+}
+.b2:hover {
+  background-color: #808eff;
+  color: white;
+}
+
+.computer {
+  padding-bottom: 60px;
+}
+
+.title {
+  color: #4c545d;
+}
+
+.title-info {
+  color: #9fabb2;
+}
+
+.item {
+  padding-bottom: 60px;
+}
+
+.container {
+  padding-left: 33px;
+  padding-right: 33px;
+}
+
+.track {
+  padding-bottom: 102px;
+}
+
+.devices {
+  width: 100%;
+}
+
+.access {
+  padding-bottom: 134px;
+}
+
+.img-box {
+  width: 49px;
+  height: 44px;
+}
+
+.hhohh {
+  margin-bottom: 52px;
+}
+
+.carding {
+  padding-bottom: 60px;
+}
+.carding h3 {
+  color: #4c545d;
+  padding-bottom: 30px;
+}
+.carding p {
+  color: #9fabb2;
+}
+
+.carding-container {
+  padding-bottom: 78px;
+}
+
+.imgo {
+  padding-bottom: 68px;
+}
+
+.overflow {
+  padding-bottom: 100px;
+}
+
+.clipboard {
+  padding-bottom: 174px;
+}
+
+.p-foot {
+  padding-bottom: 30px;
+  color: #9fabb2;
+}
+
+.p-sp {
+  padding-bottom: 40px;
+}
+.p-sp img {
+  width: 56px;
+  height: 56px;
+}
+
+.lloll {
+  margin-left: 37px;
+  margin-right: 37px;
+}
+
+footer {
+  padding-top: 54px;
+  padding-bottom: 24px;
+  background-color: #f1f3f4;
+}
+
+@media screen and (min-width: 1200px) {
+  .heading {
+    background-image: url("./images/bg-header-desktop.png");
+    background-repeat: no-repeat;
+    background-position: top center;
+    background-size: contain;
+    padding-top: 122px;
+    padding-bottom: 162px;
+  }
+
+  .btn {
+    width: 269px;
+    padding: 13px;
+  }
+
+  .computer {
+    position: absolute;
+    left: -35px;
+  }
+
+  .h4h {
+    width: 1174px;
+    height: 580px;
+  }
+
+  .w-lg-30 {
+    flex: 1;
+  }
+
+  .container-fluid {
+    padding-left: 143px;
+    padding-right: 143px;
+  }
+
+  .p-sp {
+    padding: 20px;
+  }
+  .p-sp img {
+    margin-right: 137px;
+  }
+
+  .lasto {
+    padding: 20px;
+  }
+}
+@media screen and (max-width: 1200px) {
+  .heading {
+    background-image: url("./images/bg-header-mobile.png");
+    background-repeat: no-repeat;
+    background-position: top center;
+    background-size: contain;
+    padding-top: 122px;
+    padding-bottom: 162px;
+  }
+
+  .computer {
+    width: 100%;
+  }
+}
+
+/*# sourceMappingURL=style.css.map */
